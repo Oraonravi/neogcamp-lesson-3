@@ -37,6 +37,7 @@ hr{
 .link {
     text-decoration: none;
     padding: 0.5rem 1rem;
+    margin-top: 1rem;
 }
 
 
@@ -99,6 +100,7 @@ list-style: none;
 
 .hero{
     padding: 2rem;
+    padding-top: 3rem;
 }
 
 .hero .hero-img{
@@ -149,6 +151,11 @@ list-style: none;
 
 .footer .link{
     color: white;
+}
+
+.footer .footer-header{
+    font-weight: bold;
+    font-size: large;
 }
 
 .footer ul {
